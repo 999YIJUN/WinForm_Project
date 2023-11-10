@@ -1,0 +1,10 @@
+D:\Desktop\repos\SerialPort_example\SerialPort_example\bin\Debug\SerialPort_example.exe.config
+D:\Desktop\repos\SerialPort_example\SerialPort_example\bin\Debug\SerialPort_example.exe
+D:\Desktop\repos\SerialPort_example\SerialPort_example\bin\Debug\SerialPort_example.pdb
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.csprojAssemblyReference.cache
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.FrmMain.resources
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.Properties.Resources.resources
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.csproj.GenerateResource.cache
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.csproj.CoreCompileInputs.cache
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.exe
+D:\Desktop\repos\SerialPort_example\SerialPort_example\obj\Debug\SerialPort_example.pdb

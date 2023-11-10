@@ -1,0 +1,10 @@
+D:\Desktop\repos\LotteryGame\LotteryGame\bin\Debug\LotteryGame.exe.config
+D:\Desktop\repos\LotteryGame\LotteryGame\bin\Debug\LotteryGame.exe
+D:\Desktop\repos\LotteryGame\LotteryGame\bin\Debug\LotteryGame.pdb
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.csproj.AssemblyReference.cache
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.frmMain.resources
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.Properties.Resources.resources
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.csproj.GenerateResource.cache
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.csproj.CoreCompileInputs.cache
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.exe
+D:\Desktop\repos\LotteryGame\LotteryGame\obj\Debug\LotteryGame.pdb
