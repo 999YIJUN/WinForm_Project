@@ -19,6 +19,7 @@ namespace POS_system
     public partial class FrmMain : Form
     {
         private List<int> selectedIndices = new List<int>();
+
         string image_name = string.Empty;
         public static FrmMain instance;
         public static FrmMain GetIntance()
@@ -115,6 +116,7 @@ namespace POS_system
         private void btnAddOrder_Click(object sender, EventArgs e)
         {
             Order_Add();
+            listViewOrderDetail.Clear();
         }
 
         void Order_Add()

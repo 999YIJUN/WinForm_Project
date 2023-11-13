@@ -22,10 +22,12 @@ namespace POS_system
 
         private void FrmLogin_Load(object sender, EventArgs e)
         {
-            scsb = new SqlConnectionStringBuilder();
-            scsb.DataSource = @".";           // 伺服器名稱 (ipAddress, 網域名稱(db), localhost, cr機器名稱
-            scsb.InitialCatalog = "POS_DB";  // 資料庫名稱
-            scsb.IntegratedSecurity = true; // Windows 驗證
+            var scsb = new SqlConnectionStringBuilder 
+            {
+                DataSource = @".",           // 伺服器名稱 (ipAddress, 網域名稱(db), localhost, cr機器名稱
+                InitialCatalog = "POS_DB",  // 資料庫名稱
+                IntegratedSecurity = true  // Windows 驗證
+            };
 
             GlobalVar.strMyDBConnectionString = scsb.ConnectionString;
             GlobalVar.image_dir = @"D:\Desktop\repos\POS_system\TestPicture\";
